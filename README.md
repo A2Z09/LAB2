@@ -3,7 +3,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
 
 - - - - 
-# Heading 1 #
+# Manapat Kaewlai 662115039
 
 
     Markup :  # Heading 1 #
@@ -202,13 +202,3 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask: 
-
-
-
-
-
-
-
-
-Manapat Kaewlai
-662115039
